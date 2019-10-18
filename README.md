@@ -13,3 +13,10 @@ The column headings for line two indicate a Revolution count (which is very infr
 I created the checksum for line 1 by Moving the Element Number by 10. I suppose I could do the same thing for the checksum for line 2 but didn't
 
 In the tle2.xlsx file there's two tabs the first one has the merged lines (Line #1 and Line #2 on the same line with column headings) and the 2nd tab with the raw CSV data imported from tle-CSV-added.txt file
+
+# File List
+- tle.txt = this is a textual extract of the last two days of TLE data as of 17 October 2019
+- tle-CSV-Added.txt = this is the tle.txt file modified by adding commas for all sequences of spaces
+- tle.xlsx = this is the tle-CSV-Added.txt file modified by importing it into Excel and merging line 1 and line 2 records. ALSO added column headings 
+- decay.csv = this is the current Decay/Reentry data extracted as a csv file (much easier this way)
+- decay.xlsx = this is the current Decay/Reencry data imported to Excel>
