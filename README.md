@@ -19,4 +19,6 @@ In the tle2.xlsx file there's two tabs the first one has the merged lines (Line 
 - tle-CSV-Added.txt = this is the tle.txt file modified by adding commas for all sequences of spaces
 - tle.xlsx = this is the tle-CSV-Added.txt file modified by importing it into Excel and merging line 1 and line 2 records. ALSO added column headings 
 - decay.csv = this is the current Decay/Reentry data extracted as a csv file (much easier this way)
-- decay.xlsx = this is the current Decay/Reencry data imported to Excel>
+- decay.xlsx = this is the current Decay/Reencry data imported to Excel
+- SatCat.csv = this is the current (as of 17October2019) SatCat data from Spacetracking.org
+- SatCat.xlsx = this is the current SatCat imported into an Excel file  
